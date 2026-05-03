@@ -57,7 +57,8 @@ A Library Management System  allows you to keep the Library book records, Librar
 # User Interface Screenshots:
 
 ### Login Page:
-![image](https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png)
+
+![image](Screenshot 2026-05-03 234848.png)
 <div align="right">
     <b><a href="#library-management-system">↥ back to top</a></b>
 </div>
