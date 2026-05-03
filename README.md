@@ -58,7 +58,8 @@ A Library Management System  allows you to keep the Library book records, Librar
 
 ### Login Page:
 
-![image](https://github.com/priyangasaravan-cyber/Library_Management_System/blob/main/login.png?raw=true)
+![image](https://user-images.githubusercontent.com/70682152/187031828-d66aee54-21b5-438b-8069-6ae7acce3e0a.png)
+
 <div align="right">
     <b><a href="#library-management-system">↥ back to top</a></b>
 </div>
